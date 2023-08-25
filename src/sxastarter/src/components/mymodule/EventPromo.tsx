@@ -35,7 +35,7 @@ export const Default = (props: PromoProps): JSX.Element => {
       <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
         <div className="component-content">
           <div className="field-promoicon">
-                    <h2>Special Offer</h2>
+            <h2>Special Offer</h2>
             <JssImage field={props.fields.PromoIcon} />
           </div>
           <div className="promo-text">

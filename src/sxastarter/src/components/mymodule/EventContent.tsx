@@ -24,8 +24,8 @@ const ComponentContent = (props: ComponentContentProps) => {
   const id = props.id;
   return (
     <div className={`component content ${props.styles}`} id={id ? id : undefined}>
-        <div className="component-content">
-              <h2>Event Content</h2>
+      <div className="component-content">
+        <h2>Event Content</h2>
         <div className="field-content">{props.children}</div>
       </div>
     </div>
