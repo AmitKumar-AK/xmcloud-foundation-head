@@ -1,0 +1,83 @@
+﻿---
+ID: "daec741c-1149-4864-96c7-a193daa65483"
+Parent: "5d10cdb4-6a34-4a89-9f41-0f92bcff7485"
+Template: "97b3f7bb-9152-495b-9e3c-3eb9dadeee63"
+Path: "/sitecore/content/Skate Park/Skate Park/Home/Inventory/Headless-360"
+SharedFields:
+- ID: "002c7d40-3c5b-41fe-a269-0f7b19e3801d"
+  Hint: SKU
+  Value: "{DAEC741C-1149-4864-96C7-A193DAA65483}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{99334C3F-661C-4236-AAC6-54BDE22EB171}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C45BB940-9943-4236-9851-8770CC820423}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Headless 360
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T180009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E89FE8DA-4C22-4FBA-8831-BBD4A013ECF3}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Headless-360"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f49e6fad-2fb0-4ae6-8d2d-b03947a76ba9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T180444Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: "Headless-360"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T180509Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E89FE8DA-4C22-4FBA-8831-BBD4A013ECF3}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Headless-360"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3b8d031-d821-487c-b5be-9ff1e5db4f1d"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230824T180509Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T180527Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: "Headless-360"

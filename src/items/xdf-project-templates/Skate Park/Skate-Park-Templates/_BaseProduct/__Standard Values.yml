@@ -1,0 +1,45 @@
+﻿---
+ID: "10accfb0-bd0c-4cfd-befd-ec5f91eeeaa3"
+Parent: "e3314075-6a4c-4964-9a06-801f2ae1113d"
+Template: "e3314075-6a4c-4964-9a06-801f2ae1113d"
+Path: "/sitecore/templates/Project/Skate Park/Skate-Park-Templates/_BaseProduct/__Standard Values"
+SharedFields:
+- ID: "002c7d40-3c5b-41fe-a269-0f7b19e3801d"
+  Hint: SKU
+  Value: $id
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{99334C3F-661C-4236-AAC6-54BDE22EB171}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "73be71ef-6234-4169-932f-b711350a28ba"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T162131Z
+    - ID: "4d46b956-1836-49da-9409-8619b1f0cb78"
+      Hint: Highlights
+      Value: Whether you’re a beginner or a pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fca6f740-f367-495b-a32d-517b564f83c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T175540Z

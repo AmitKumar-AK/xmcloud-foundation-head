@@ -1,0 +1,48 @@
+﻿---
+ID: "c977be30-7da7-4788-a5d8-d0e5f54870b3"
+Parent: "7d722c44-c572-46fe-9cac-80c101ccf529"
+Template: "3e3644e1-2145-4d2a-8cd2-7878932713ef"
+Path: /sitecore/content/TAC/Events/Data/Heroes/Sample Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01fa2bc3-ce5c-4296-8c91-0d2cbdc76797"
+      Hint: Body
+      Value: Enjoy Mount Everest Event with the Adventure Company.
+    - ID: "09b3c129-63fd-4800-9c54-ac91cc65f8bb"
+      Hint: Image
+      Value: |
+        <image mediaid="{3AE71ED9-D1D3-4488-B6FB-93B6D52B5B27}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T181026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "6486750b-987c-44f5-9d08-237348c00b58"
+      Hint: Title
+      Value: Exciting Mount Everest Event
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4f259c5-27ae-4beb-9b58-ad38f8bd7d07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d4709070-9d94-45dc-96f8-ca39e42d0431"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2DE35D35-AC7F-4304-8A1C-3257475C5BB3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T181119Z
+    - ID: "ebfd32de-3ce3-4a61-88f9-9ceac4537664"
+      Hint: Summary
+      Value: "Join our Exciting Climbing Events!"

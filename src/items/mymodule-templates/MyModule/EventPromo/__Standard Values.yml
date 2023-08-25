@@ -1,0 +1,31 @@
+﻿---
+ID: "3c6e7923-7410-473c-998b-d090dc27d47b"
+Parent: "98e157de-4627-482b-8cec-40ec277c216f"
+Template: "98e157de-4627-482b-8cec-40ec277c216f"
+Path: /sitecore/templates/Feature/MyModule/EventPromo/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T184020Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf97edc7-bde4-4ecf-b6ad-7bb89bbef9b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T184020Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "85f07f46-4210-41b8-9189-e5d2e1263869"
+Parent: "133ff2c7-6bc6-45b0-ade3-0f45078f9b4c"
+Template: "133ff2c7-6bc6-45b0-ade3-0f45078f9b4c"
+Path: "/sitecore/templates/Project/Skate Park/Skate-Park-Templates/Product-Landing-Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{97B3F7BB-9152-495B-9E3C-3EB9DADEEE63}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T163547Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed7e1324-0480-4518-812a-69ee831d01d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T163633Z

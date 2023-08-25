@@ -1,0 +1,41 @@
+﻿---
+ID: "27927b3e-c8f3-4777-957f-361b8644d87d"
+Parent: "e3d31f8b-07bd-422b-911e-132bea3f4f9a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/TAC/Events/Presentation/Available Renderings/TAC
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {5C8AA05E-653A-40EF-8C22-32A0B525A298}
+    {E7386712-2591-41DB-992F-D11C19927AF3}
+    {29303943-7774-4E98-9F3F-1B061552EE05}
+    {F32D8564-D3AF-43CD-BB93-7A21E6919770}
+    {D656B045-5D5B-47BB-B819-2E636C834B7A}
+    {AC0773D8-9780-4637-A2D2-6D61C2CADBF9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T170648Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74e689c9-76b1-41d1-806a-4c1e170774ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T182139Z

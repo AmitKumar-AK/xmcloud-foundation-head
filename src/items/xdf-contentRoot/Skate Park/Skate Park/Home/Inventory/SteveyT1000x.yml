@@ -1,0 +1,41 @@
+﻿---
+ID: "16f02551-c465-4b55-a716-6f339eb5dafb"
+Parent: "5d10cdb4-6a34-4a89-9f41-0f92bcff7485"
+Template: "97b3f7bb-9152-495b-9e3c-3eb9dadeee63"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/SteveyT1000x
+SharedFields:
+- ID: "002c7d40-3c5b-41fe-a269-0f7b19e3801d"
+  Hint: SKU
+  Value: "{16F02551-C465-4B55-A716-6F339EB5DAFB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1C59FB24-CB3E-41E6-9184-525EB1981424}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: SteveyT 1000x
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T163904Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SteveyT1000x
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40aa71f0-3f11-4900-8433-1fca9b5db9d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T163927Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: SteveyT1000x

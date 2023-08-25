@@ -1,0 +1,73 @@
+﻿---
+ID: "f1ef4a24-5371-4dd5-8fa1-e5ffc37789ee"
+Parent: "5d10cdb4-6a34-4a89-9f41-0f92bcff7485"
+Template: "97b3f7bb-9152-495b-9e3c-3eb9dadeee63"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/Ordercloud9
+SharedFields:
+- ID: "002c7d40-3c5b-41fe-a269-0f7b19e3801d"
+  Hint: SKU
+  Value: "{F1EF4A24-5371-4DD5-8FA1-E5FFC37789EE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{99334C3F-661C-4236-AAC6-54BDE22EB171}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{43574648-FBF5-4838-B674-968CAC2769C2}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T163829Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1a788d6-6786-4f62-93a6-231f6efba678"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T163832Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: Ordercloud9
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T184332Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E89FE8DA-4C22-4FBA-8831-BBD4A013ECF3}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75b6aece-3b87-45db-9bf7-0f6297f46e94"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230824T184332Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T184937Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: Ordercloud9

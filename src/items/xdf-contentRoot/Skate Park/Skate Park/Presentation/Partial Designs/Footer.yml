@@ -1,0 +1,68 @@
+﻿---
+ID: "6efaf247-025f-4872-be65-bd34bf7321c8"
+Parent: "05caa01f-b784-4b73-b9aa-fde4e697cddd"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Skate Park/Skate Park/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E18923AB-48E3-41EC-B57E-D88C6EDF1027}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bFCBDF221-4F92-46DB-ADA1-B5417F24F9E6%7d%7c%7bBBDFFABF-84C9-48C1-930B-F2A3ADC2D1F3%7d%7c%7b7AB3AEDD-291D-4E77-B79F-A8E4FDB9B265%7d%7c%7b3F433F30-5DAE-457E-8C96-186FAD72C144%7d%7c%7bB7DEF57D-68CE-445B-A717-0AD44CB49CDF%7d%7c%7b654C33EE-5649-40A8-9DF5-9A05BCCBAA41%7d%7c%7b941882F1-3555-4693-AB07-85B974F8315E%7d%7c%7b2946D976-F656-4A08-9CBC-B4FC7F25500E%7d%7c%7bD638818A-056E-4A7A-85CE-15A8F1E7B160%7d%7c%7b6CB85F8E-D524-438B-AB8D-48B4D6D608B3%7d%7c%7b438829EA-C211-4068-AEE0-D6D562163437%7d%7c%7b563249B7-DECC-4A88-AB7B-7BD81E19E052%7d%7c%7bA039C9FD-B710-4736-90BF-E75450A14687%7d%7c%7b0A652E56-EB74-4CE9-9071-6AA1199AE2BA%7d%7c%7bEC3D59FF-6516-41A4-A9A8-4D9C7E2743EF%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{B550381C-A901-4FDA-B007-A5E6776A1115}"
+          p:after="r[@uid='{E18923AB-48E3-41EC-B57E-D88C6EDF1027}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b85547CF5-3FA7-47E9-A8C4-3EC47FA2CFCB%7d&amp;FieldNames=%7bED77ADF5-25E6-45C8-95DF-C7D41B45BE20%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{4F36BB68-4D83-472E-8B0D-AF1AEA5993F2}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b85547CF5-3FA7-47E9-A8C4-3EC47FA2CFCB%7d&amp;FieldNames=%7bED77ADF5-25E6-45C8-95DF-C7D41B45BE20%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T153052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8d627fe-9001-41f4-a9e1-b737ed12e7ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T153055Z

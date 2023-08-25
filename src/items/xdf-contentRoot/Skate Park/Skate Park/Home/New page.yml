@@ -1,0 +1,34 @@
+﻿---
+ID: "0ac5fa2b-ccab-4f94-b770-93ec1b113531"
+Parent: "efa8e1b5-80ce-4b03-b5d9-9756ffd2a6d3"
+Template: "56161ee3-93b5-465f-bff7-ea4464145edd"
+Path: /sitecore/content/Skate Park/Skate Park/Home/New page
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F1676613-734E-41AF-9D76-A1A78CF38281}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T160904Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f150ede9-debf-4874-ab76-249510fb6fb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T160907Z
+    - ID: "de2fb775-2078-49e8-a54d-ecec639caba8"
+      Hint: Title
+      Value: New page

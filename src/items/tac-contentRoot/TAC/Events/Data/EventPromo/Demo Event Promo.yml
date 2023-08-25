@@ -1,0 +1,34 @@
+﻿---
+ID: "e12f4612-73d4-484b-82ad-c3b0cf6b7645"
+Parent: "b1281e75-a79e-4918-a127-2a68b9472f41"
+Template: "98e157de-4627-482b-8cec-40ec277c216f"
+Path: /sitecore/content/TAC/Events/Data/EventPromo/Demo Event Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T184835Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: "Join our Hiking Event!!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c70cef56-f1e7-47bd-b88d-18cf1826c604"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T184914Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9AAD64AE-C4D2-4007-9813-E9274219B43B}" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{2FF2CED6-6C3A-44ED-9D8F-0A0180228CA3}" />

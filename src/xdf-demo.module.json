@@ -1,0 +1,38 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "XDF.Demo",
+  "items": {
+    "includes": [
+      {
+        "name": "xdf-project-templates",
+        "path": "/sitecore/Templates/Project/Skate Park",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xdf-project-placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Skate Park",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xdf-renderings",
+        "path": "/sitecore/layout/Renderings/Project/Skate Park",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xdf-contentRoot",
+        "path": "/sitecore/content/Skate Park",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xmcloud-media",
+        "path": "/sitecore/media library/Feature/JSS Experience Accelerator/Basic Site/",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "xdf-media",
+        "path": "/sitecore/media library/Project/Skate Park",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+﻿---
+ID: "51f04198-460f-4e57-9988-ea07cf3ab602"
+Parent: "b1e58d30-4155-40b1-870d-4188109db5d1"
+Template: "b1e58d30-4155-40b1-870d-4188109db5d1"
+Path: /sitecore/templates/Feature/MyModule/EventPromo Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {98E157DE-4627-482B-8CEC-40EC277C216F}
+    {B1E58D30-4155-40B1-870D-4188109DB5D1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T184021Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be758900-e5fa-4598-b0a1-a0d68e1c4282"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amit.iu.kumar@accenture.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T184021Z
