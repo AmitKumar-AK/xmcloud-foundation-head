@@ -5,6 +5,9 @@ using Microsoft.Extensions.Logging;
 
 namespace XmCloudTriggers
 {
+    /// <summary>
+    /// This class contains a function that returns a welcome message.
+    /// </summary>
     public class Function1
     {
         private readonly ILogger<Function1> _logger;
@@ -14,6 +17,11 @@ namespace XmCloudTriggers
             _logger = logger;
         }
 
+        /// <summary>
+        /// This method is triggered by an HTTP request and returns a welcome message.
+        /// </summary>
+        /// <param name="req"></param>
+        /// <returns></returns>
         [Function("Function1")]
         public IActionResult Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
         {
